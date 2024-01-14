@@ -21,3 +21,8 @@ Then according to the hint, I went src/preload.ts and changed `const guessable_c
 Now, it was time to crop the image for the guessing. I opened up GiMP and zoomed to the blurred part and cut out that section where no pixel was left. I even managed to catch the top pixels that were almost blended with the background. The final image looked like this:
 
 ![Final Image](./secret.png)
+
+I now executed the program and after 5-10 mins, I got the best guess as `pokemon_catching_ezz`.
+I then formatted it into the format and got the flag!
+
+`uoftctf{pokemon_catching_ezz}`
