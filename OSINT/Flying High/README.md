@@ -14,8 +14,8 @@ Author: windex
 Solution
 =
 
-After I saw the image, I quickly knew the aircraft was an A340 (because of its identifying features). I then looked at the `B` written on the right-most aircraft, and after a bit of searching, the airline was Iberia Airlines. Finally to find out the airport, I went on google image search and put the image. First, I saw Chalais Airport, but it wasn't the case. So I searched more until I found out it was Bordeaux Airport. I then searched up it's IATA code and BOD it was.
+After I saw the image, I quickly knew the aircraft was an A340-300 (because of its identifying features). I then looked at the `B` written on the right-most aircraft, and after a bit of searching, the airline was Iberia Airlines. Finally to find out the airport, I went on google image search and put the image. First, I saw Chalais Airport, but it wasn't the case. So I searched more until I found out it was Bordeaux Airport. I then searched up it's IATA code and BOD it was.
 
 I then quickly put up the information and I got the flag!
 
-`UofTCTF{BOD_Iberia-Airlines_A340}`
+`UofTCTF{BOD_Iberia-Airlines_A340-300}`
