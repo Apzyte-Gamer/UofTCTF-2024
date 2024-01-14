@@ -12,3 +12,4 @@ Author: SteakEnthusiast
 Solution
 =
 
+By opening the image, I noticed that this time, the text was blurred. So, I went on looking for Unredacters, until I came upon an electron app made by BishopFox named [unredacter](https://github.com/BishopFox/unredacter). 
