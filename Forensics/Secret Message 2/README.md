@@ -18,7 +18,7 @@ I quickly downloaded the source code and opened it up in VS Code.
 
 Then according to the hint, I went src/preload.ts and changed `const guessable_characters = 'abcdefghijklmnopqrstuvwxyz ';` to `const guessable_characters = 'abcdefghijklmnopqrstuvwxyz_';`
 
-Now, it was time to crop the image for the guessing. I opened up GiMP and zoomed to the blurred part and cut out that section where no pixel was left. I even managed to catch the top pixels that were almost blended with the background. The final image looked like this:
+Now, it was time to crop the image for the guessing. I opened up GiMP and zoomed to the blurred part and cut out that section where no pixel was left. After a few tries of failing, I managed to catch the top pixels that were almost blended with the background. The final image looked like this:
 
 ![Final Image](./secret.png)
 
